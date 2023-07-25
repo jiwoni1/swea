@@ -15,5 +15,4 @@ for number in range(T):
     print(f'#{number+1} {big}')
 
 
-
     
